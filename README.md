@@ -1,6 +1,8 @@
 # LoveLocal-assignment-easy1
 Given a string s consisting of words and spaces, return the length of the last word in the string.
+
 Explanation of Code:
+
 Step 1 -> Function Definition: Defining a function named length_of_lastword that takes a string s as input, splits it into words using split(), and returns the length of the last word. If there are no words, it returns 0.
 
 Step 2 -> User Input: Prompts the user to input a string. The entered string is stored in the variable s.
